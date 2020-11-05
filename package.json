@@ -1,0 +1,14 @@
+{
+  "name": "bases",
+  "version": "1.0.0",
+  "description": "Este es un ejercicio del cuso de node de udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hectorcito",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.1.0"
+  }
+}
